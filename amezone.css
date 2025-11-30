@@ -14,13 +14,7 @@ header{
     margin-left: -3rem;
     display: inline;
 }
-/* :hover{
-    border: 1px  solid white ;
-} */
-.img-gps{
-    /* margin-bottom: 1.5rem; */
-    /* display: inline; */
-}
+
 .gps-logo{
     margin-left: 1.5rem;
     
@@ -47,11 +41,9 @@ header{
     flex-direction: row;
     
 }
-#blockl{
-    /* display: inline-block; */
 
 }
-.all{           /* searchbar all*/
+.all{          
     width: 2.8rem;
     height: 2.5rem;
     background-color: rgb(211, 208, 208);
